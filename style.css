@@ -638,7 +638,7 @@ ul.menu li a {
 
 
 /* Responsive */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 660px) {
     section {
         width: 100%;
         height: 280px;
